@@ -2,7 +2,7 @@ package PALINDROME_ACT;
 
 import java.util.Scanner; // Import Scanner class
 
-public class IT13A_QUIDIT {
+public class IT13A_RENOJO {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
            
